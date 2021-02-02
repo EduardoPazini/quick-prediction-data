@@ -6,14 +6,14 @@ Heart fail: analysis and quick-prediction
 1) Install and set the virtual enviroment:
 
 ```
-python -m venv env
-source env/bin/activate
+$ python -m venv env
+$ source env/bin/activate
 ```
 
 2) Install the packages required:
    
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 3) Just run the bellow:
